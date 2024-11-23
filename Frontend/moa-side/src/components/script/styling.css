@@ -1,0 +1,105 @@
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main {
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+#sidebar {
+    max-width: 264px;
+    min-width: 264px;
+    background-color: #151515;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+}
+
+.navbar {
+    padding: 1.15rem 1.5rem;
+}
+
+.sidebar-nav {
+    flex: 1 1 auto;
+}
+
+.sidebar-logo {
+    padding: 1.15rem 1.5rem;
+    text-align: center;
+}
+.sidebar-logo a {
+    color: #a91d3a;
+    font-weight: 800;
+    font-size: 2rem;
+}
+a.sidebar-link {
+    padding: .625rem 1.625rem;
+    color: #a91d3a;
+    position: relative;
+    transition: all 0.35s;
+    display: block;
+    font-size: 1.2rem;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+a.sidebar-link:hover {
+    background-color: #a91d3a;
+    color: #151515;
+    
+}
+.dark15 {
+    background-color: #151515;
+}
+
+.wrapr {
+    height: 500px;
+    object-fit: cover;
+}
+
+.custom-button {
+    background-color: #151515; /* Custom green color */
+    color: #a91d3a;
+    font-size: 1rem;
+    border-color: #a91d3a;
+  }
+  
+  /* Hover Effect */
+  .custom-button:hover {
+    background-color: #a91d3a; /* Darker green on hover */
+    color: #151515;
+  }
+  
+  .btn-red {
+    background-color: #a91d3a;
+    color: #151515;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .btn-red:hover {
+    background-color: #151515;
+    color: #a91d3a;
+  }
+
+  .img-set {
+    max-height: 500px;
+    min-height: 500px;
+  }
+
+ .link-txt {
+    margin-left: 10px;
+ }
+
+ .sz {
+    font-size: 1.8rem;
+ }
