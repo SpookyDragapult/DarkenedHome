@@ -102,6 +102,7 @@ a.sidebar-link:hover {
 
  .sz {
     font-size: 1.8rem;
+<<<<<<< HEAD
  }
 
  .bg1 {
@@ -112,4 +113,6 @@ a.sidebar-link:hover {
  .card {
     border: none;
     border-radius: 15px;
+=======
+>>>>>>> origin2/master
  }
