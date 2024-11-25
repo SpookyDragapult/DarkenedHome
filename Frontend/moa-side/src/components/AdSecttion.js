@@ -1,13 +1,7 @@
 import React from 'react';
-<<<<<<< HEAD
 import ad1 from './assets/gopay.jpg';
 import ad2 from './assets/jajan.jpg';
 import ad3 from './assets/cocacola.jpg';
-=======
-import ad1 from 'D:/MOA-new/Frontend/moa-side/src/components/assets/gopay.jpg';
-import ad2 from 'D:/MOA-new/Frontend/moa-side/src/components/assets/jajan.jpg';
-import ad3 from 'D:/MOA-new/Frontend/moa-side/src/components/assets/cocacola.jpg';
->>>>>>> origin2/master
 import './script/Carousel.css';
 
 

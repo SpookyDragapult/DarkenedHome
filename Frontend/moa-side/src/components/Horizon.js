@@ -1,8 +1,4 @@
 import React from 'react';
-<<<<<<< HEAD
-=======
-import logo from 'D:/MOA-new/Frontend/moa-side/src/logo.svg';
->>>>>>> origin2/master
 
 
 export const Horizon = () => {
