@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "671f59158596b7941f5b25c0"
+  },
+  "title": "Five Nights at Freddys",
+  "description": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+  "release": "2023",
+  "image": "https://images2.imgbox.com/26/47/j8rbGMGa_o.jpg"
+},
+{
+  "_id": {
+    "$oid": "674199426576b92d5faaea82"
+  },
+  "title": "Avengers: Infinity War",
+  "description": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+  "release": "2021",
+  "image": "https://images2.imgbox.com/16/81/lotzmaQ6_o.jpg"
+},
+{
+  "_id": {
+    "$oid": "6741999e6576b92d5faaea83"
+  },
+  "title": "Venom: The Last Dance",
+  "description": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+  "release": "2024",
+  "image": "https://images2.imgbox.com/c6/75/ysu5k5FD_o.jpg"
+}]

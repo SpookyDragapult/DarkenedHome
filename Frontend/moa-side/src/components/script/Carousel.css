@@ -1,0 +1,47 @@
+.slick-prev,
+.slick-next {
+  width: 50px;          /* Set width */
+  height: 50px;         /* Set height */
+  z-index: 1;           /* Ensure it's on top of slides */
+  color: #fff;          /* Arrow color */
+  background-color: #333; /* Background color */
+  border-radius: 50%;   /* Make arrows circular */
+  opacity: 0.8;         /* Set opacity */
+  transition: opacity 0.3s; /* Add hover transition */
+}
+
+/* Adjust position of the arrows if necessary */
+.slick-prev {
+  left: 100px;  /* Distance from the left edge */
+  top: 100px;
+}
+
+.slick-next {
+  right: 100px; /* Distance from the right edge */
+}
+
+/* Change opacity on hover */
+.slick-prev:hover,
+.slick-next:hover {
+  opacity: 1;
+}
+
+.slick-slide {
+  display: flex;
+  justify-content: center;
+}
+.slick-slider {
+  margin: 20px;
+}
+
+.slick-list {
+  padding: 0 100px; /* Adjust as needed for the desired space */
+}.slick-dots li button:before {
+  color: #a91d3a;
+  opacity: 0.5;
+}
+
+.slick-dos li.slick-active button:before{
+  color: #a91d3a;
+  opacity: 1;
+}
